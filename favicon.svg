@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="18 18 72 72">
+  <!-- Maple Hollow's launcher icon: an open tome under a star, on the galaxy's indigo. -->
+  <rect x="18" y="18" width="72" height="72" rx="16" fill="#1E1B4B"/>
+  <path fill="#F3E3B5" d="M54,50 C47,45.5 38,44.5 31,46.5 L31,72 C38,70 47,71 54,75.5 Z"/>
+  <path fill="#E8D49A" d="M54,50 C61,45.5 70,44.5 77,46.5 L77,72 C70,70 61,71 54,75.5 Z"/>
+  <path stroke="#B8925A" stroke-width="1.2" fill="none" d="M54,50 L54,75.5"/>
+  <path fill="#FFC857" d="M54,27 L56.6,35.4 L65,38 L56.6,40.6 L54,49 L51.4,40.6 L43,38 L51.4,35.4 Z"/>
+  <circle cx="36" cy="33" r="1.4" fill="#C7D2FE"/>
+  <circle cx="73" cy="31" r="1.1" fill="#C7D2FE"/>
+</svg>
